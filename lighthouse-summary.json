@@ -1,0 +1,17 @@
+{
+  "auditUrl": "http://127.0.0.1:4173",
+  "timestamp": "2026-11-19T19:40:31.689Z",
+  "scores": {
+    "performance": 77,
+    "accessibility": 93,
+    "bestPractices": 96,
+    "seo": 82
+  },
+  "metrics": {
+    "firstContentfulPaint": "1.5 s",
+    "largestContentfulPaint": "2.8 s",
+    "totalBlockingTime": "360 ms",
+    "cumulativeLayoutShift": "0.215",
+    "speedIndex": "1.6 s"
+  }
+}
